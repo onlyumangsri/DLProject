@@ -1,4 +1,4 @@
-# To study the effect of Transfer Learning
+# To study the effect of Transfer Learning by extraction of layers
 
 Two ResNET models and one modified model are used for this study
 
